@@ -1,6 +1,6 @@
 import {format} from '../support/utils.js'
 
-context('Dev Finances Agilizei' , () => {
+context('Teste ToDo-React-App' , () => {
 
     beforeEach(() => {
         cy.visit('https://matheusidkk.github.io/Todo-React/')
